@@ -1,0 +1,11 @@
+#Core dependencies
+numpy
+pandas
+
+#Testing tools
+pytest
+pytest-cov
+
+#Linting and formatting
+flake8
+black
